@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+##欢迎来到我的 GitHub Pages
+
+2020年6月10日开通，以后可能会用到吧！
 
 You can use the [editor on GitHub](https://github.com/kangchangwei/kangchangwei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
