@@ -3,9 +3,9 @@
 ## 今天是2020年6月10日，以后可能会用到吧！
 ## 2020年6月10日 16点18分 星期四 clone 本地！
 
-You can use the [editor on GitHub](https://github.com/kangchangwei/kangchangwei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+您可以使用[GitHub上的编辑器]（https://github.com/kangchangwei/kangchangwei.github.io/edit/master/README.md）维护和预览Markdown文件中网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交到该存储库时，GitHub Pages都将运行[Jekyll]（https://jekyllrb.com/）从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
