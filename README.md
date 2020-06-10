@@ -1,7 +1,7 @@
 ## 欢迎来到我的 GitHub 站点。
 
 ## 今天是2020年6月10日，以后可能会用到吧！
-## 2020年6月10日 16点18分 星期四 clone 本地！
+## 2020年6月10日 16点18分 星期四 clone 本地
 
 You can use the [editor on GitHub](https://github.com/kangchangwei/kangchangwei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
